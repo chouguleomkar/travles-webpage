@@ -1,0 +1,28 @@
+div{
+    float: left;
+    background-color: #ecf8ff;
+    color: crimson;
+    padding: 10px;
+    margin: 50px;
+    width: 400px;
+    align-content: center;
+    font-family: Arial;
+}
+body{
+    float: left;
+    background-color:darkgrey ;
+    color: lightskyblue;
+
+}
+a{
+    color: darkgreen;
+}
+
+.special{
+    background-color: chocolate;
+    color: cyan ;
+}
+.about{
+    background-color:orangered;
+    color: wheat;
+}
